@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 We can connect on [Linkedin](https://www.linkedin.com/in/pragyajnv13/)
+
+My Coding profiles:-    
+👉[Leetcode](https://leetcode.com/pragya9460/)   -->(Most Active)  
+👉[GFG](https://auth.geeksforgeeks.org/user/pragyajnv13/practice)        
+👉[Code Studio](https://www.codingninjas.com/codestudio/profile/bd0b9adb-cbff-4f65-b018-6c0f3202a804)    
+👉[Codechef](https://www.codechef.com/users/pragya9460)    
