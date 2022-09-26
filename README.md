@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-We can connect on [Linkedin](https://www.linkedin.com/in/pragya9460/), [Twitter](https://twitter.com/Pragya9460)
-   
-👉[Leetcode](https://leetcode.com/pragya9460/) 
-
+We can connect on [Linkedin](https://www.linkedin.com/in/pragya9460/), [Twitter](https://twitter.com/Pragya9460)   
+👉[Leetcode](https://leetcode.com/pragya9460/)  
 All profile links
 👉[Linktree](https://linktr.ee/pragya9460)
